@@ -12,7 +12,7 @@ Welcome to the Discord Clone project! This project is a web application built wi
 
 ## Demo
 
-You can access the live demo of this project at https://discord-aashish.vercel.app/.
+You can access the live demo of this project at https://discord-clone-n03xzby7q-navins-projects-14a050b3.vercel.app.
 
 ## Features
 
